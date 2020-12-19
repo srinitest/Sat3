@@ -11,6 +11,11 @@ public class Saturday {
 	public static void main(String[] args) {
 		Saturday s=new Saturday();
 		s.sam();
+		System.out.println("Abcd");
+		System.out.println("Abcd");
+		System.out.println("Abcd");
+		System.out.println("Abcd");
+		System.out.println("Abcd");
 	}
 
 	}
